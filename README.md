@@ -31,9 +31,11 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
-    ```
+```
 
 ## Output:
-!["OUTPUT"](/Screenshot%20from%202022-12-25%2010-13-45.png)
+!["OUTPUT"](/circulate.png)
 
 ## Result:
+circulating is successfully completed
+
